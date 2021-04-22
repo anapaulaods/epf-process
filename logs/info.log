@@ -1,0 +1,53 @@
+Info: CustomCategory:anapaula: 16 mini seconds publishing element
+Info: CustomCategory:Roles: 12 mini seconds publishing element
+Info: Role:Desenvolvedor: 80 mini seconds publishing element
+Info: Task:Corrigir bugs: 18 mini seconds publishing element
+Info: Task:Desenvolver novas páginas: 11 mini seconds publishing element
+Info: Task:Documentar atividades: 10 mini seconds publishing element
+Info: Task:Fazer deploy: 16 mini seconds publishing element
+Info: Task:Prestar suporte ao portal: 26 mini seconds publishing element
+Info: Task:Testar em servidores internos: 26 mini seconds publishing element
+Info: Artifact:Codigo: 32 mini seconds publishing element
+Info: Artifact:Codigo Corrigido: 17 mini seconds publishing element
+Info: Artifact:Codigo Testado: 21 mini seconds publishing element
+Info: Artifact:Implantação: 19 mini seconds publishing element
+Info: Role:Supervisor: 44 mini seconds publishing element
+Info: Task:Validar o desenvolvimento: 12 mini seconds publishing element
+Info: CustomCategory:Tasks: 8 mini seconds publishing element
+Info: CustomCategory:Work Products: 9 mini seconds publishing element
+Info: CustomCategory:Processes: 9 mini seconds publishing element
+Info: DeliveryProcess:AnaPaula_Estagio: 176 mini seconds publishing element
+Info: DeliveryProcess:AnaPaula_Estagio: 456 mini seconds publishing process specific layout data
+Info: Phase:Demandas: 127 mini seconds publishing element
+Info: TaskDescriptor:Prestar suporte ao portal: 17 mini seconds publishing element
+Info: Phase:Desenvolvimento: 240 mini seconds publishing element
+Info: TaskDescriptor:Desenvolver novas páginas: 11 mini seconds publishing element
+Info: TaskDescriptor:Corrigir bugs: 35 mini seconds publishing element
+Info: Phase:Teste: 229 mini seconds publishing element
+Info: TaskDescriptor:Testar em servidores internos: 20 mini seconds publishing element
+Info: Phase:Validação: 130 mini seconds publishing element
+Info: TaskDescriptor:Validar o desenvolvimento: 4 mini seconds publishing element
+Info: Phase:Implantação: 150 mini seconds publishing element
+Info: TaskDescriptor:Fazer deploy: 36 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedor: 12 mini seconds publishing element
+Info: RoleDescriptor:Supervisor: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo: 6 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo Corrigido: 5 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo Testado: 4 mini seconds publishing element
+Info: WorkProductDescriptor:Implantação: 3 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedor: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo: 1 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo Corrigido: 6 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo Testado: 2 mini seconds publishing element
+Info: WorkProductDescriptor:Implantação: 5 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedor: 3 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo Corrigido: 6 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo Testado: 5 mini seconds publishing element
+Info: WorkProductDescriptor:Implantação: 3 mini seconds publishing element
+Info: RoleDescriptor:Desenvolvedor: 4 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo: 8 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo Corrigido: 0 mini seconds publishing element
+Info: WorkProductDescriptor:Codigo Testado: 9 mini seconds publishing element
+Info: WorkProductDescriptor:Implantação: 3 mini seconds publishing element
+Info: : Publishing time: 0 minutes 6 seconds
